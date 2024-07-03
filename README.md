@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Tiwari</h1>
-<h3 align="center">Working as a Full stack developer having 4.5 years of experience</h3>
+<h3 align="center">Working as a Full stack developer having 7+ years of experience</h3>
 
 - 🌱 I’m currently learning **React,Docker,Kubernetes,Redis**
 
